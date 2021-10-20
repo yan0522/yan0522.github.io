@@ -1,7 +1,6 @@
 <div class="cover-main"><img width="150px" src="https://blogimage-1258928558.cos.ap-guangzhou.myqcloud.com/friends/touxiang.jpeg" style="border-radius: 50%">
 <br/>
 
-<!-- ![logo](http://img.netbian.com/file/2019/0425/7c37f209b6a696a58d6a5a52b2833d1d.jpg) -->
 # 我的文档网站
 
 > 一个神奇的文档网站生成了
@@ -13,5 +12,5 @@
 [GitHub](https://github.com/docsifyjs/docsify/)
 [开始阅读](/README)
 
-<!-- 背景图片 -->
-![]("http://img.netbian.com/file/2019/0425/7c37f209b6a696a58d6a5a52b2833d1d.jpg")
+<!-- 背景色 -->
+![color](#fbb30b)
