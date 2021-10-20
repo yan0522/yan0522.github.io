@@ -1,4 +1,4 @@
-![logo](/不服鸭.jpg)
+![logo](/不服鸭（缩小版）.jpg)
 
 # My Notes
 
