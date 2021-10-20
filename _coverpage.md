@@ -1,5 +1,4 @@
-<div class="cover-main"><img width="150px" src="https://blogimage-1258928558.cos.ap-guangzhou.myqcloud.com/friends/touxiang.jpeg" style="border-radius: 50%">
-<br/>
+![logo](/不服鸭.jpg)
 
 # 我的文档网站
 
