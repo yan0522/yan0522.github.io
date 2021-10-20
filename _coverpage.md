@@ -1,4 +1,4 @@
-<div class="cover-main"><img width="150px" src="https://blogimage-1258928558.cos.ap-guangzhou.myqcloud.com/friends/touxiang.jpeg" style="border-radius: 50%">
+<div class="cover-main"><img width="150px" src="http://img.netbian.com/file/2019/0425/7c37f209b6a696a58d6a5a52b2833d1d.jpg" style="border-radius: 50%">
 <br/>
 
 
