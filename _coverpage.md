@@ -3,7 +3,7 @@
 # My Notes
 
 
-> 一个简简单单的文档网站
+> 只是一些简简单单的笔记而已
 
 
 [docsify](https://github.com/docsifyjs/docsify/)
