@@ -2,13 +2,13 @@
 
 ### ✏️ 技能
 #### Java基础
-- [标题AAAA](SpringBoot注解大全)
-- [标题BBBB](springboot整合shiro（完整版）)
+- [SpringBoot注解大全](SpringBoot注解大全)
+- [springboot整合shiro（完整版）](springboot整合shiro（完整版）)
 #### Redis
-- [标题CCCC](springboot全局配置文件属性说明)
+- [springboot全局配置文件属性说明](springboot全局配置文件属性说明)
 
 ### ✏️ 框架
-- [标题AAAA](ArrayList)
+- [ArrayList简单总结](ArrayList)
 - [标题BBBB](对应的.md文件名)
 - [标题CCCC](对应的.md文件名)
 
