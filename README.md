@@ -2,7 +2,7 @@
 
 ### ✏️ 技能
 #### Java基础
-- [SpringBoot注解大全](SpringBoot注解大全)
+- [SpringBoot注解大全](#SpringBoot注解大全)
 - [springboot整合shiro（完整版）](springboot整合shiro（完整版）)
 #### Redis
 - [springboot全局配置文件属性说明](springboot全局配置文件属性说明)
