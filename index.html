@@ -27,12 +27,14 @@
     window.$docsify = {
         maxAge: 100,
         name: 'My Notes',
+        homepage: 'index.html',
         auto2top: true,
         coverpage: true,
         executeScript: true,
         loadSidebar: true,
         loadNavbar: true,
         mergeNavbar: true,
+        autoHeader: true,
         alias: { // 定义路由别名，可以更自由的定义路由规则。 支持正则
           '/.*/_sidebar.md': '/_sidebar.md'//防止意外回退
         },
@@ -42,11 +44,11 @@
         },
         repo: 'https://github.com/yan0522/yan0522.github.io',
         search: {
+            paths: 'auto',
             placeholder: '🔍搜索...',
             noData: '😞 找不到相关内容呢！',
             depth: 6
         },
-        paths: 'auto',
         subMaxLevel: 2,
     };
   </script>
