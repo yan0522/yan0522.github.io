@@ -36,20 +36,22 @@
         search : [
           '/'            // => /README.md
         ],
-        search: {
+        <!-- search: {
             paths: 'auto',
             placeholder: 'Search...',
             noData: '😞 找不到相关内容呢！',
             depth: 6
-        },
+        }, -->
         subMaxLevel: 2,
     };
   </script>
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
-  <!-- docsify-themeable (latest v0.x.x) -->
+  <!-- docsify-themeable (主题插件) -->
   <script src="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/js/docsify-themeable.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
+  <!-- 搜索插件 -->
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
+  <!-- 一键复制到剪贴板插件 -->
   <script src="//cdn.jsdelivr.net/npm/docsify-copy-code"></script>
 </body>
 </html>
