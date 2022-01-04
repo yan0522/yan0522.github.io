@@ -1,9 +1,9 @@
 # 🎨 前言
 
-!> <b>说明</b>：能坚持下去的自律，都会成为蜕变的契机。 ( •̀ ω •́ )✧🔑
+!> <b>说明</b>：🔑能坚持下去的自律，都会成为蜕变的契机。 ( •̀ ω •́ )✧
 
-* ⏳ `要好好热爱呀`！
-* ✨ 勤能补拙，相信一点点的积累最后汇聚成海！  🧡🧡
+* ⏳ 年纪大了不要紧啊，记不住就写下来！
+* ✨ `勤能补拙`，相信一点点的积累最后汇聚成海！  🧡🧡
 
 # 🚀 java基础
 
@@ -19,7 +19,7 @@
 * [示例五](/计算机专业课/数理统计/CH01-抽样和抽样分布.md)
 * [🍉 示例六](OJ/README.md)
 
-## ☕️ 多线程
+## 🎹 多线程
 * [示例七](FrontEnd/Vue/idea-to-vue.md)
 * [示例八](FrontEnd/Vue/vue-base-notes.md)
 
@@ -27,7 +27,7 @@
 * [🎉 示例九](ToolBox/LaTex使用指南.md)
 ## 🥭 网络
 
-# 🐋 设计模式
+# ❄️ 设计模式
 - [示例十](设计模式.md)
 
 # 🥉 框架
@@ -36,11 +36,11 @@
 
 ## ☁️ Spring MVC
 
-## ☕️ Spring Boot
+## 🎸 Spring Boot
 - [SpringBoot注解大全](SpringBoot/SpringBoot注解大全)
 - [Springboot整合Shiro之加盐MD5加密的方法](SpringBoot/Springboot整合Shiro之加盐MD5加密的方法.md)
 
-## 🐍 Spring Cloud
+## 🎯 Spring Cloud
 
 ## 🥭 Spring Security
 
@@ -54,7 +54,7 @@
 
 ## ⏰ RabbitMQ
 
-# 🐋 应用服务器
+# 💊 应用服务器
 
 # 📜 数据库
 
@@ -64,7 +64,7 @@
 
 ## 🐍 树
 
-## ☕️ 表、栈、队列
+## 🎁 表、栈、队列
 
 # 🔨 工具
 
