@@ -15,3 +15,4 @@
 - [<span class="iconfont icon-csdn"></span> 百度一下](https://www.baidu.com/)
 - [<span class="iconfont icon-wodeguanzhu"></span> 关于本站](关于/)
 - [⛷ 在线工具](https://tool.lu/)
+- [👊 样式搬自此大佬](https://notebook.js.org/#/README)
