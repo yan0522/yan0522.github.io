@@ -16,19 +16,19 @@
 * [示例四](计算机专业课/算法与数据结构/算法与数据结构笔记.md)
 
 ## 📝 IO
-* [1 - 抽样和抽样分布](/计算机专业课/数理统计/CH01-抽样和抽样分布.md)
-* [🍉 刷题在行动，加油！](OJ/README.md)
+* [示例五](/计算机专业课/数理统计/CH01-抽样和抽样分布.md)
+* [🍉 示例六](OJ/README.md)
 
 ## ☕️ 多线程
-* [IDEA 搭建 Vue 项目 Demo](FrontEnd/Vue/idea-to-vue.md)
-* [Vue.js 基础入门笔记](FrontEnd/Vue/vue-base-notes.md)
+* [示例七](FrontEnd/Vue/idea-to-vue.md)
+* [示例八](FrontEnd/Vue/vue-base-notes.md)
 
 ## 🐍 反射
-* [🎉 LaTex 语法使用指南](ToolBox/LaTex使用指南.md)
+* [🎉 示例九](ToolBox/LaTex使用指南.md)
 ## 🥭 网络
 
 # 🐋 设计模式
-- [设计模式](设计模式.md)
+- [示例十](设计模式.md)
 
 # 🥉 框架
 
@@ -68,44 +68,3 @@
 # 🔨 工具
 
 ## 📌 IDEA
-
-
-> 能坚持下去的自律，都会成为蜕变的契机。
-## 导航
-### ✏️ 技能
-#### Java基础
-- [ArrayList简单总结](ArrayList)
-- [标题BBBB](对应的.md文件名)
-- [标题CCCC](对应的.md文件名)
-#### Redis
-- [springboot全局配置文件属性说明](springboot全局配置文件属性说明)
-#### AAA子分组
-#### BBB子分组
-### ✏️ 框架
-- [SpringBoot相关笔记](SpringBoot)
-- [SpringCloud相关笔记](SpringCloud)
-
-### ✏️ 组件
-- [标题AAAA](对应的.md文件名)
-- [标题BBBB](对应的.md文件名)
-- [标题CCCC](对应的.md文件名)
-
-### 👊 工具
-- [标题AAAA](对应的.md文件名)
-- [标题BBBB](对应的.md文件名)
-- [标题CCCC](对应的.md文件名)
-
-### 👊 架构
-- [标题AAAA](对应的.md文件名)
-- [标题BBBB](对应的.md文件名)
-- [标题CCCC](对应的.md文件名)
-
-### 👊 环境
-- [标题AAAA](对应的.md文件名)
-- [标题BBBB](对应的.md文件名)
-- [标题CCCC](对应的.md文件名)
-
-### 👊 算法
-- [标题AAAA](对应的.md文件名)
-- [标题BBBB](对应的.md文件名)
-- [标题CCCC](对应的.md文件名)
