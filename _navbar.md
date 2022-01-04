@@ -14,4 +14,4 @@
   - [🎅 预留五](README)
 - [<span class="iconfont icon-csdn"></span> 百度一下](https://www.baidu.com/)
 - [<span class="iconfont icon-wodeguanzhu"></span> 关于本站](关于/)
-- [⛷ 在线工具箱](https://tool.lu/)
+- [⛷ 在线工具](https://tool.lu/)
