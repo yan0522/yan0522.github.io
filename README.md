@@ -46,7 +46,7 @@
 
 ## 🐼 MyBatis
 
-- [MyBatis](MyBatis/MyBatis)
+- [MyBatis](My Batis/MyBatis)
 
 # 🍵 中间件
 
