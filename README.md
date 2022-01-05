@@ -37,8 +37,8 @@
 ## ☁️ Spring MVC
 
 ## 🎸 Spring Boot
-- [SpringBoot注解大全](SpringBoot/SpringBoot注解大全)
-- [Springboot整合Shiro之加盐MD5加密的方法](SpringBoot/Springboot整合Shiro之加盐MD5加密的方法.md)
+- [SpringBoot注解大全](Spring Boot/SpringBoot注解大全)
+- [Springboot整合Shiro之加盐MD5加密的方法](Spring Boot/Springboot整合Shiro之加盐MD5加密的方法.md)
 
 ## 🎯 Spring Cloud
 
